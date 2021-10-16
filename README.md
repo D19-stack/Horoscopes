@@ -1,4 +1,4 @@
-# udemy2
+# Horoscopes
 
 A new Flutter project.
 
